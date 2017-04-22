@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "build": "echo 'building'",
-    "start": "node index.js",
-    "prestart": "echo 'prestart'"
-  }
-}
